@@ -1,4 +1,4 @@
-# YourPageTitle
+# Hisilicon.wiki
 
 [Page1](page1.md)
 [Page2](page2.md)
@@ -14,7 +14,7 @@
 [gimmick:theme (inverse: false)](bootstrap)
 
 <!-- show a theme chooser in the menu bar -->
-[gimmick:ThemeChooser](Change theme)
+<!-- [gimmick:ThemeChooser](Change theme) -->
 
 <!-- show a fork me on github ribbon -->
-[gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki-seed/)
+<!-- [gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki-seed/) -->
